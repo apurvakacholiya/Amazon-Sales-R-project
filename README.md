@@ -116,6 +116,22 @@ Export and Share:
 
 Download analysis results and visualizations as CSV or PNG files.
 
+
+## Power BI Reports
+
+Sales Analytics Report
+
+File: Sales_Analytics_Report.pbix
+
+Description: This Power BI report provides detailed insights into sales trends, regional performance, and profit analysis. It complements the R Shiny dashboard by offering an offline, interactive visualization experience.
+
+How to Use the Report
+
+Download the .pbix file in the repository.
+
+Open the file using Microsoft Power BI Desktop.
+
+
 ## Contributors
 
 Apurva Kacholiya Role: Data Scientist
